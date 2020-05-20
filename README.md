@@ -1,1 +1,1 @@
-# This is the official repo of my study in 人工智能与自然语言处理.
+# This is the official repo of my study in Artificial Intelligence and Natural Language Processing.
